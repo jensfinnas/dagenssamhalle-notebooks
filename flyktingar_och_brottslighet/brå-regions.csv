@@ -1,0 +1,320 @@
+0,Ale kommun
+7,Alingsås kommun
+14,Alvesta kommun
+21,Aneby kommun
+28,Arboga kommun
+35,Arjeplog kommun
+42,Arvidsjaur kommun
+49,Arvika kommun
+56,Askersund kommun
+63,Avesta kommun
+70,Bengtsfors kommun
+77,Berg kommun
+84,Bjurholm kommun
+91,Bjuv kommun
+98,Boden kommun
+105,Bollebygd kommun
+112,Bollnäs kommun
+119,Borgholm kommun
+126,Borlänge kommun
+133,Borås kommun
+140,Botkyrka kommun
+147,Boxholm kommun
+154,Bromölla kommun
+161,Bräcke kommun
+168,Burlöv kommun
+175,Båstad kommun
+182,Dals-Ed kommun
+189,Danderyd kommun
+196,Degerfors kommun
+203,Dorotea kommun
+210,Eda kommun
+217,Ekerö kommun
+224,Eksjö kommun
+231,Emmaboda kommun
+238,Enköping kommun
+245,Eskilstuna kommun
+252,Eslöv kommun
+259,Essunga kommun
+266,Fagersta kommun
+273,Falkenberg kommun
+280,Falköping kommun
+287,Falun kommun
+294,Filipstad kommun
+301,Finspång kommun
+308,Flen kommun
+315,Forshaga kommun
+322,Färgelanda kommun
+329,Gagnef kommun
+336,Gislaved kommun
+343,Gnesta kommun
+350,Gnosjö kommun
+357,Gotland kommun
+364,Grums kommun
+371,Grästorp kommun
+378,Gullspång kommun
+385,Gällivare kommun
+392,Gävle kommun
+399,Göteborg kommun
+406,"Göteborg kommun, Angered stadsdel"
+413,"Göteborg kommun, Askim-Frölunda-Högsbo stadsdel"
+420,"Göteborg kommun, Centrum stadsdel"
+427,"Göteborg kommun, Lundby stadsdel"
+434,"Göteborg kommun, Majorna-Linne stadsdel"
+441,"Göteborg kommun, Norra Hisingen stadsdel"
+448,"Göteborg kommun, Västra Göteborg stadsdel"
+455,"Göteborg kommun, Västra Hisingen stadsdel"
+462,"Göteborg kommun, Örgryte-Härlanda stadsdel"
+469,"Göteborg kommun, Östra Göteborg stadsdel"
+476,Götene kommun
+483,Habo kommun
+490,Hagfors kommun
+497,Hallsberg kommun
+504,Hallstahammar kommun
+511,Halmstad kommun
+518,Hammarö kommun
+525,Haninge kommun
+532,Haparanda kommun
+539,Heby kommun
+546,Hedemora kommun
+553,Hela landet
+560,Helsingborg kommun
+567,Herrljunga kommun
+574,Hjo kommun
+581,Hofors kommun
+588,Huddinge kommun
+595,Hudiksvall kommun
+602,Hultsfred kommun
+609,Hylte kommun
+616,Hällefors kommun
+623,Härjedalen kommun
+630,Härnösand kommun
+637,Härryda kommun
+644,Hässleholm kommun
+651,Håbo kommun
+658,Höganäs kommun
+665,Högsby kommun
+672,Hörby kommun
+679,Höör kommun
+686,Jokkmokk kommun
+693,Järfälla kommun
+700,Jönköping kommun
+707,Kalix kommun
+714,Kalmar kommun
+721,Karlsborg kommun
+728,Karlshamn kommun
+735,Karlskoga kommun
+742,Karlskrona kommun
+749,Karlstad kommun
+756,Katrineholm kommun
+763,Kil kommun
+770,Kinda kommun
+777,Kiruna kommun
+784,Klippan kommun
+791,Knivsta kommun
+798,Kramfors kommun
+805,Kristianstad kommun
+812,Kristinehamn kommun
+819,Krokom kommun
+826,Kumla kommun
+833,Kungsbacka kommun
+840,Kungsör kommun
+847,Kungälv kommun
+854,Kävlinge kommun
+861,Köping kommun
+868,Laholm kommun
+875,Landskrona kommun
+882,Laxå kommun
+889,Lekeberg kommun
+896,Leksand kommun
+903,Lerum kommun
+910,Lessebo kommun
+917,Lidingö kommun
+924,Lidköping kommun
+931,Lilla Edet kommun
+938,Lindesberg kommun
+945,Linköping kommun
+952,Ljungby kommun
+959,Ljusdal kommun
+966,Ljusnarsberg kommun
+973,Lomma kommun
+980,Ludvika kommun
+987,Luleå kommun
+994,Lund kommun
+1001,Lycksele kommun
+1008,Lysekil kommun
+1015,Malmö kommun
+1022,"Malmö kommun, Stadsområde Innerstaden"
+1029,"Malmö kommun, Stadsområde Norr"
+1036,"Malmö kommun, Stadsområde Söder"
+1043,"Malmö kommun, Stadsområde Väster"
+1050,"Malmö kommun, Stadsområde Öster"
+1057,Malung-Sälen kommun
+1064,Malå kommun
+1071,Mariestad kommun
+1078,Mark kommun
+1085,Markaryd kommun
+1092,Mellerud kommun
+1099,Mjölby kommun
+1106,Mora kommun
+1113,Motala kommun
+1120,Mullsjö kommun
+1127,Munkedal kommun
+1134,Munkfors kommun
+1141,Mölndal kommun
+1148,Mönsterås kommun
+1155,Mörbylånga kommun
+1162,Nacka kommun
+1169,Nora kommun
+1176,Norberg kommun
+1183,Nordanstig kommun
+1190,Nordmaling kommun
+1197,Norrköping kommun
+1204,Norrtälje kommun
+1211,Norsjö kommun
+1218,Nybro kommun
+1225,Nykvarn kommun
+1232,Nyköping kommun
+1239,Nynäshamn kommun
+1246,Nässjö kommun
+1253,Ockelbo kommun
+1260,Olofström kommun
+1267,Orsa kommun
+1274,Orust kommun
+1281,Osby kommun
+1288,Oskarshamn kommun
+1295,Ovanåker kommun
+1302,Oxelösund kommun
+1309,Pajala kommun
+1316,Partille kommun
+1323,Perstorp kommun
+1330,Piteå kommun
+1337,Ragunda kommun
+1344,Robertsfors kommun
+1351,Ronneby kommun
+1358,Rättvik kommun
+1365,Sala kommun
+1372,Salem kommun
+1379,Sandviken kommun
+1386,Sigtuna kommun
+1393,Simrishamn kommun
+1400,Sjöbo kommun
+1407,Skara kommun
+1414,Skellefteå kommun
+1421,Skinnskatteberg kommun
+1428,Skurup kommun
+1435,Skövde kommun
+1442,Smedjebacken kommun
+1449,Sollefteå kommun
+1456,Sollentuna kommun
+1463,Solna kommun
+1470,Sorsele kommun
+1477,Sotenäs kommun
+1484,Staffanstorp kommun
+1491,Stenungsund kommun
+1498,Stockholm kommun
+1505,"Stockholm kommun, Bromma stadsdel"
+1512,"Stockholm kommun, Enskede - Årsta - Vantör stadsdel"
+1519,"Stockholm kommun, Farsta stadsdel"
+1526,"Stockholm kommun, Hägersten-Liljeholmen stadsdel"
+1533,"Stockholm kommun, Hässelby - Vällingby stadsdel"
+1540,"Stockholm kommun, Kungsholmen stadsdel"
+1547,"Stockholm kommun, Norrmalm  stadsdel"
+1554,"Stockholm kommun, Rinkeby-Kista stadsdel"
+1561,"Stockholm kommun, Skarpnäck stadsdel"
+1568,"Stockholm kommun, Skärholmen stadsdel"
+1575,"Stockholm kommun, Spånga - Tensta stadsdel"
+1582,"Stockholm kommun, Södermalm stadsdel"
+1589,"Stockholm kommun, Älvsjö stadsdel"
+1596,"Stockholm kommun, Östermalm stadsdel"
+1603,Storfors kommun
+1610,Storuman kommun
+1617,Strängnäs kommun
+1624,Strömstad kommun
+1631,Strömsund kommun
+1638,Sundbyberg kommun
+1645,Sundsvall kommun
+1652,Sunne kommun
+1659,Surahammar kommun
+1666,Svalöv kommun
+1673,Svedala kommun
+1680,Svenljunga kommun
+1687,Säffle kommun
+1694,Säter kommun
+1701,Sävsjö kommun
+1708,Söderhamn kommun
+1715,Söderköping kommun
+1722,Södertälje kommun
+1729,Sölvesborg kommun
+1736,Tanum kommun
+1743,Tibro kommun
+1750,Tidaholm kommun
+1757,Tierp kommun
+1764,Timrå kommun
+1771,Tingsryd kommun
+1778,Tjörn kommun
+1785,Tomelilla kommun
+1792,Torsby kommun
+1799,Torsås kommun
+1806,Tranemo kommun
+1813,Tranås kommun
+1820,Trelleborg kommun
+1827,Trollhättan kommun
+1834,Trosa kommun
+1841,Tyresö kommun
+1848,Täby kommun
+1855,Töreboda kommun
+1862,Uddevalla kommun
+1869,Ulricehamn kommun
+1876,Umeå kommun
+1883,Upplands Väsby kommun
+1890,Upplands-Bro kommun
+1897,Uppsala kommun
+1904,Uppvidinge kommun
+1911,Vadstena kommun
+1918,Vaggeryd kommun
+1925,Valdemarsvik kommun
+1932,Vallentuna kommun
+1939,Vansbro kommun
+1946,Vara kommun
+1953,Varberg kommun
+1960,Vaxholm kommun
+1967,Vellinge kommun
+1974,Vetlanda kommun
+1981,Vilhelmina kommun
+1988,Vimmerby kommun
+1995,Vindeln kommun
+2002,Vingåker kommun
+2009,Vänersborg kommun
+2016,Vännäs kommun
+2023,Värmdö kommun
+2030,Värnamo kommun
+2037,Västervik kommun
+2044,Västerås kommun
+2051,Växjö kommun
+2058,Vårgårda kommun
+2065,Ydre kommun
+2072,Ystad kommun
+2079,Älmhult kommun
+2086,Älvdalen kommun
+2093,Älvkarleby kommun
+2100,Älvsbyn kommun
+2107,Ängelholm kommun
+2114,Åmål kommun
+2121,Ånge kommun
+2128,Åre kommun
+2135,Årjäng kommun
+2142,Åsele kommun
+2149,Åstorp kommun
+2156,Åtvidaberg kommun
+2163,Öckerö kommun
+2170,Ödeshög kommun
+2177,Örebro kommun
+2184,Örkelljunga kommun
+2191,Örnsköldsvik kommun
+2198,Östersund kommun
+2205,Österåker kommun
+2212,Östhammar kommun
+2219,Östra Göinge kommun
+2226,Överkalix kommun
+2233,Övertorneå kommun

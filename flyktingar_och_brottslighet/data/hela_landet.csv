@@ -1,0 +1,171 @@
+,crime,crime_id,period,period_id,periodicity,region,region_id,timepoint,value
+0,Totalt antal brott,3144,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,1210821
+1,Totalt antal brott,3144,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,1183484
+2,Totalt antal brott,3144,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,1228192
+3,Totalt antal brott,3144,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,1255335
+4,Totalt antal brott,3144,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,1248743
+5,Totalt antal brott,3144,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,1241843
+6,Totalt antal brott,3144,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,1224958
+7,Totalt antal brott,3144,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,1306324
+8,Totalt antal brott,3144,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,1377854
+9,Totalt antal brott,3144,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,1405626
+10,Totalt antal brott,3144,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,1370399
+11,Totalt antal brott,3144,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,1416280
+12,Totalt antal brott,3144,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,1402588
+13,Totalt antal brott,3144,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,1401982
+14,Totalt antal brott,3144,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,1443753
+15,Totalt antal brott,3144,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,1503399
+16,Totalt antal brott,3144,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,1502023
+17,Våldsbrott,3145,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,75696
+18,Våldsbrott,3145,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,78239
+19,Våldsbrott,3145,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,79232
+20,Våldsbrott,3145,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,83591
+21,Våldsbrott,3145,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,85892
+22,Våldsbrott,3145,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,93962
+23,Våldsbrott,3145,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,97914
+24,Våldsbrott,3145,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,104366
+25,Våldsbrott,3145,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,108237
+26,Våldsbrott,3145,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,111472
+27,Våldsbrott,3145,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,112929
+28,Våldsbrott,3145,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,116520
+29,Våldsbrott,3145,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,113867
+30,Våldsbrott,3145,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,104738
+31,Våldsbrott,3145,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,108071
+32,Våldsbrott,3145,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,108739
+33,Våldsbrott,3145,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,112645
+34,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,58851
+35,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,59478
+36,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,61644
+37,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,65177
+38,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,67089
+39,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,72645
+40,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,77019
+41,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,82262
+42,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,84566
+43,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,86281
+44,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,87854
+45,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,89457
+46,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,87052
+47,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,80374
+48,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,83324
+49,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,85067
+50,"Våldsbrott, Misshandel inkl.grov",3161,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,87995
+51,Sexualbrott,3147,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,9072
+52,Sexualbrott,3147,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,9627
+53,Sexualbrott,3147,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,10297
+54,Sexualbrott,3147,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,10815
+55,Sexualbrott,3147,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,11204
+56,Sexualbrott,3147,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,12768
+57,Sexualbrott,3147,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,12542
+58,Sexualbrott,3147,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,12921
+59,Sexualbrott,3147,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,14693
+60,Sexualbrott,3147,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,16069
+61,Sexualbrott,3147,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,17589
+62,Sexualbrott,3147,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,17556
+63,Sexualbrott,3147,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,17379
+64,Sexualbrott,3147,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,18229
+65,Sexualbrott,3147,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,21298
+66,Sexualbrott,3147,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,19021
+67,Sexualbrott,3147,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,20656
+68,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,2026
+69,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,2086
+70,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,2185
+71,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,2565
+72,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,2631
+73,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,3787
+74,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,4208
+75,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,4749
+76,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,5446
+77,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,5937
+78,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,5960
+79,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,6532
+80,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,6324
+81,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,6017
+82,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,6697
+83,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,5918
+84,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott)",3294,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,6563
+85,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,554
+86,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,575
+87,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,581
+88,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,692
+89,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,769
+90,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,993
+91,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,987
+92,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,1096
+93,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,1162
+94,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,1195
+95,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,1100
+96,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,1044
+97,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,1053
+98,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,1011
+99,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,1024
+100,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,1043
+101,"Sexualbrott, Våldtäkt inkl. grov (ingår även i våldsbrott), Mot samtliga personer, Utomhus",3322,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,1004
+102,"Stöld-, rån- och häleribrott",3150,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,709272
+103,"Stöld-, rån- och häleribrott",3150,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,671863
+104,"Stöld-, rån- och häleribrott",3150,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,691743
+105,"Stöld-, rån- och häleribrott",3150,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,673499
+106,"Stöld-, rån- och häleribrott",3150,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,655994
+107,"Stöld-, rån- och häleribrott",3150,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,633903
+108,"Stöld-, rån- och häleribrott",3150,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,586398
+109,"Stöld-, rån- och häleribrott",3150,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,580246
+110,"Stöld-, rån- och häleribrott",3150,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,563349
+111,"Stöld-, rån- och häleribrott",3150,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,558428
+112,"Stöld-, rån- och häleribrott",3150,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,533505
+113,"Stöld-, rån- och häleribrott",3150,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,551254
+114,"Stöld-, rån- och häleribrott",3150,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,539281
+115,"Stöld-, rån- och häleribrott",3150,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,538310
+116,"Stöld-, rån- och häleribrott",3150,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,545638
+117,"Stöld-, rån- och häleribrott",3150,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,534265
+118,"Stöld-, rån- och häleribrott",3150,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,507390
+119,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,228623
+120,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,231476
+121,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,236914
+122,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,237574
+123,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,240499
+124,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,236028
+125,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,232090
+126,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,235961
+127,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,236234
+128,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,235250
+129,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,229311
+130,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,237671
+131,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,245972
+132,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,232127
+133,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,227455
+134,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,221981
+135,"Stöld-, rån- och häleribrott, Stöld och snatteri",3369,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,208448
+136,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,52633
+137,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,51808
+138,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,53755
+139,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,59275
+140,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,61743
+141,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,58344
+142,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,56211
+143,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,58574
+144,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,63734
+145,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,69037
+146,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,64211
+147,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,62604
+148,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,60470
+149,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,48894
+150,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,48933
+151,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,50433
+152,"Stöld-, rån- och häleribrott, Stöld och snatteri, I butik, varuhus, kommersiell utställningslokal",3415,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,48645
+153,Skadegörelse (inkl. mordbrand),3151,"År, 2000",2081,yearly,Hela landet,8291,2000-01-01,125432
+154,Skadegörelse (inkl. mordbrand),3151,"År, 2001",2101,yearly,Hela landet,8291,2001-01-01,136808
+155,Skadegörelse (inkl. mordbrand),3151,"År, 2002",2102,yearly,Hela landet,8291,2002-01-01,142259
+156,Skadegörelse (inkl. mordbrand),3151,"År, 2003",2103,yearly,Hela landet,8291,2003-01-01,153330
+157,Skadegörelse (inkl. mordbrand),3151,"År, 2004",2104,yearly,Hela landet,8291,2004-01-01,149394
+158,Skadegörelse (inkl. mordbrand),3151,"År, 2005",2105,yearly,Hela landet,8291,2005-01-01,149702
+159,Skadegörelse (inkl. mordbrand),3151,"År, 2006",2106,yearly,Hela landet,8291,2006-01-01,149874
+160,Skadegörelse (inkl. mordbrand),3151,"År, 2007",2072,yearly,Hela landet,8291,2007-01-01,181329
+161,Skadegörelse (inkl. mordbrand),3151,"År, 2008",2107,yearly,Hela landet,8291,2008-01-01,197496
+162,Skadegörelse (inkl. mordbrand),3151,"År, 2009",2109,yearly,Hela landet,8291,2009-01-01,204890
+163,Skadegörelse (inkl. mordbrand),3151,"År, 2010",2073,yearly,Hela landet,8291,2010-01-01,167063
+164,Skadegörelse (inkl. mordbrand),3151,"År, 2011",2108,yearly,Hela landet,8291,2011-01-01,169617
+165,Skadegörelse (inkl. mordbrand),3151,"År, 2012",2074,yearly,Hela landet,8291,2012-01-01,154096
+166,Skadegörelse (inkl. mordbrand),3151,"År, 2013",2110,yearly,Hela landet,8291,2013-01-01,143013
+167,Skadegörelse (inkl. mordbrand),3151,"År, 2014",2111,yearly,Hela landet,8291,2014-01-01,152814
+168,Skadegörelse (inkl. mordbrand),3151,"År, 2015",2486,yearly,Hela landet,8291,2015-01-01,196631
+169,Skadegörelse (inkl. mordbrand),3151,"År, 2016 prel.",2526,yearly,Hela landet,8291,2016-01-01,196162
